@@ -46,7 +46,7 @@
   },
   "dependencies": {
     "geotiff": "2.0.4",
-    "ol-mapbox-style": "git+git.jkdevelop.ru/ivanvazhenin/ol-mapbox-style.git",
+    "ol-mapbox-style": "git+https://git.jkdevelop.ru/ivanvazhenin/ol-mapbox-style.git",
     "pbf": "3.2.1",
     "rbush": "^3.0.1"
   },
